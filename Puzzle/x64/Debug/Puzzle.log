@@ -1,0 +1,29 @@
+﻿  CalcPathPlan.cpp
+E:\repos\8Puzzle\Utils\CalcPathPlan.cpp(42,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Utils\CalcPathPlan.cpp(46,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\repos\8Puzzle\Utils\CalcPathPlan.cpp(164,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Utils\CalcPathPlan.cpp(172,34): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  CalcReverseNum.cpp
+  ImgPuzzles.cpp
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(93,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(143,146): warning C4267: “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(270,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(386,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(395,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(404,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(405,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(466,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(470,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(553,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(555,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(582,63): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(633,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(644,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\repos\8Puzzle\Puzzle\ImgPuzzles.cpp(721,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  Puzzle.vcxproj -> E:\repos\8Puzzle\x64\Debug\Puzzle.exe
